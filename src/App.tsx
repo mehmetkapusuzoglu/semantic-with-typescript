@@ -8,9 +8,7 @@ import { Button, TransitionablePortal, Segment, Header } from 'semantic-ui-react
 import 'semantic-ui-css/semantic.min.css';
 import './App.css';
 import Page from './APage';
-
 import logo from './logo.svg';
-
 
 interface IState {
   count: number;
